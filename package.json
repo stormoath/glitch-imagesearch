@@ -1,0 +1,19 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "request": "^2.83.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node --harmony-async-await server.js"
+  },
+  "engines": {
+    "node": "7.7.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stormoath/glitch/tree/glitch"
+  }
+}
